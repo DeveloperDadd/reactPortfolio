@@ -20,3 +20,8 @@ h1, p {
 .about-img {
   max-height: 500px;
 }
+
+.tech-image {
+  max-width: 300px;
+  height: auto;
+}
