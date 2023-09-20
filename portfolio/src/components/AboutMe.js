@@ -4,9 +4,8 @@ export default function AboutMe() {
             <div className="row d-flex justify-content-center align-items-center">
                 <div className="col-md-6">
                     <h1 className="text-center">Hi! I'm Clayton, a Fullstack Developer</h1>
-                    <p className="text-center mt-3">I recently completed a fulltime web development bootcamp hosted by Awesome Inc. We covered everything from HTML to Django Backend and REST APIs. Check out the rest of my site to learn more about me!</p>
+                    <p className="text-center mt-3">I recently completed a fulltime web development bootcamp hosted by Awesome Inc in August of 2023. We covered everything from HTML to Django Backend and REST APIs. Since then I have been working on going deeper into the foundation they laid to become a better fullstack developer. I will continue to add my projects to my portfolio here as I continue to grow! Aside from coding, I'm a father to a beautiful little girl, I also love to read, play video games, and binge watch 'The Office' with my wife. Thanks for checking out my portfolio, I hope to connect!</p>
                 </div>
-                <h1 className="col-md-6"><img className="about-img img-fluid" src="https://static.vecteezy.com/system/resources/previews/011/153/364/original/3d-website-developer-working-on-laptop-illustration-png.png" alt="3d of a cartoon man coding" /></h1>
             </div>
         </section>
     )

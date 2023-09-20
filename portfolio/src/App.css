@@ -25,3 +25,7 @@ h1, p {
   max-width: 300px;
   height: auto;
 }
+
+.main-container {
+  max-width: 1200px;
+}
