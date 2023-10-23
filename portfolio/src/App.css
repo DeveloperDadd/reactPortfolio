@@ -4,17 +4,39 @@ font-family: 'Lato', sans-serif;
 font-family: 'Montserrat', sans-serif;
 */
 
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
 
 a {
   color: black;
   font-family: 'Montserrat', sans-serif;
   text-decoration: none;
   font-size: 2rem;
+  display: block;
 }
 
-h1, p {
+li a:hover {
+  border-bottom: solid black 1px;
+}
+
+.about-me {
+  padding: 0px;
+}
+
+h1 {
   font-family: 'Lato', sans-serif;
   font-weight: 700;
+  font-size: 4rem;
+}
+
+.about-para {
+  font-family: 'Lato', sans-serif;
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin-bottom: 50px;
 }
 
 .about-img {
